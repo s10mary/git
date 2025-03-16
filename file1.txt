@@ -1,3 +1,3 @@
 Moving the next demo
 show me another line
-before commit diff
+Before commit diff
