@@ -3,3 +3,4 @@ This line is from main branch
 =======
 This line is from feature-branch
 >>>>>>> feature-branch
+newline from main branch second attempt
