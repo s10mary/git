@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-This line is from main branch
-=======
-This line is from feature-branch
->>>>>>> feature-branch
-newline from main branch second attempt
+
+newline from feature-branch second attempt
+
